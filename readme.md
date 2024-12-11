@@ -1,6 +1,6 @@
 # Yu-Gi-Oh | Jo-ken-po Edition
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Jogo de jokenpo tematico que foi feito com orientação do curso da DIO.me
 
 conceitos abordados:
 
